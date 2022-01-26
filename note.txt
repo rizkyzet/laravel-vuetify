@@ -1,0 +1,4 @@
+
+In existing project of Laravel 8 it's better to do this installation which gets in one line:
+
+npm i -D vue@next @vue/compiler-sfc vue-loader@next
